@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:id="@+id/row_options">        
+	    <item android:id="@+id/op_eliminar"
+	        	android:title="@string/eliminar"/>
+	    <item android:id="@+id/op_borrado_completo"
+	        	android:title="@string/eliminar_completo"/>
+	    <item android:id="@+id/op_renombrar"
+	        	android:title="@string/renombrar"/>
+	</group>
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ComprasApp</string>    
+    <string name="exit_activity">Salir</string>	
+        <string name="control_de_consumo">Compras App</string>
+        <string name="buscar_agregar">Descripción</string>
+        <string name="agregar">Agregar</string>
+        
+        <string name="eliminar">Eliminar de mi lista</string>
+        <string name="eliminar_completo">Eliminar completamente</string>
+        <string name="renombrar">Renombrar</string>
+        
+    <string name="footer">0 artículos, $0.0</string>
+	<string name="descripcion">Descripción</string>
+	<string name="precio">$</string>
+	<string name="cantidad">Cant.</string>
+	<string name="total">Tot.</string>
+	<string name="acerca_de">Acerca de ¿?</string>	
+	<string name="limpiar_lista">Limpiar lista</string>
+	<string name="quitar_marcados">Quitar marcados</string>
+</resources>

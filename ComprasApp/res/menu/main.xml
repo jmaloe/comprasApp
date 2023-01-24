@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.malo.comprasapp.MainActivity" >
+
+    <item
+        android:id="@+id/limpiar_lista"
+        android:orderInCategory="100"
+        android:title="@string/limpiar_lista"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/quitar_marcados"
+        android:orderInCategory="100"
+        android:title="@string/quitar_marcados"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/exit_activity"
+        android:orderInCategory="200"
+        android:title="@string/exit_activity"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="200"
+        android:title="@string/acerca_de"
+        app:showAsAction="never"/>
+</menu>
